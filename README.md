@@ -47,4 +47,3 @@
 - 지킬 테마 이름 : Agency Jekyll Theme
 - 지킬 테마 URL : http://jekyllthemes.org/themes/agency/
 - 프로젝트 일정: ~ 2024.06.21
-`
