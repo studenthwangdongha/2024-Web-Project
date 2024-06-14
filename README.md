@@ -37,11 +37,6 @@
   - 단점에 대한 극복
 - 프로젝트 소개
   - 캡스톤 디자인에서 작업한 디자인 작업
-- 추가정보
-  - 공지사항
-  - 자료실
-  - 깃허브 링크
-
 ## 사용한 지킬 테마 또는 기술 스택`
 - 지킬 테마 이름 : Agency Jekyll Theme
 - 지킬 테마 URL : http://jekyllthemes.org/themes/agency/
